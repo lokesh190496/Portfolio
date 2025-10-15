@@ -1,32 +1,40 @@
 export const testimonialsData = [
   {
     id: 1,
-    name: "John Smith",
-    position: "CEO",
-    company: "TechCorp Solutions",
-    image: "JS",
+    name: "Ravi",
+    position: "Software Engineer",
+    company: "Heeddata India Pvt. Ltd.",
+    image: "Ravi",
     rating: 5,
-    text: "Lokesh delivered exceptional work on our e-commerce platform. His attention to detail and technical expertise made our project a huge success. The platform now handles over 50k transactions daily without any issues.",
-    project: "E-commerce Platform Development"
+    project: "FinOps UI Optimization",
+    text: "Lokesh is a detail-oriented engineer who consistently delivers high-quality, performance-optimized React components. He played a key role in building dynamic FinOps interfaces for multi-cloud cost insights and integrating AI-driven recommendations. His ability to understand complex requirements and translate them into clean, efficient UI logic is impressive."
   },
   {
     id: 2,
-    name: "Maria Johnson",
-    position: "Product Manager",
-    company: "InnovateHub",
-    image: "MJ",
+    position: "Software Engineer",
+    company: "Heeddata India Pvt. Ltd.",
+    image: "Ravi",
     rating: 5,
-    text: "Working with Lokesh was a pleasure. He's not only a skilled developer but also a great communicator who understands business needs. He transformed our complex requirements into an intuitive user experience.",
-    project: "SaaS Dashboard Development"
+    project: "AI Integration & UX Enhancement",
+    text: "Working with Lokesh has been a great experience. He brings creativity and a strong technical mindset to UI/UX challenges. His work on integrating Azure OpenAI for semantic tagging and recommendations significantly improved the platform’s intelligence and usability. Highly dependable and proactive in communication."
   },
   {
     id: 3,
-    name: "David Lee",
-    position: "CTO",
-    company: "DataFlow Systems",
-    image: "DL",
+    position: "Software Engineer",
+    company: "Infolob Solutions Pvt. Ltd.",
+    image: "Ravi",
     rating: 5,
-    text: "Lokesh's technical skills are outstanding. He completed our complex dashboard project ahead of schedule with excellent quality. His expertise in React and data visualization was exactly what we needed.",
-    project: "Analytics Dashboard"
+    project: "Azure Cost Visualization",
+    text: "Lokesh is a reliable and technically sound engineer. During our time at Infolob, he built intuitive UI components for Azure cost optimization and resource visualization tools. His understanding of API integration and frontend state management with React and Redux made the entire interface smooth and efficient."
+  },
+  {
+    id: 4,
+    name: "Ravi",
+    position: "Backend Developer",
+    company: "Infolob Solutions Pvt. Ltd.",
+    image: "R",
+    rating: 4,
+    project: "Cloud Optimization API Integration",
+    text: "Collaborating with Lokesh on the Azure SDK integration project was seamless. He quickly understood backend data structures and implemented front-end logic that perfectly represented the insights. His code is modular, easy to maintain, and his sense of design complements his technical strength."
   }
 ];

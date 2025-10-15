@@ -24,7 +24,6 @@ export const technicalSkills = [
 
   { name: "Node.js", icon: SiNodedotjs, bgGradient: "from-green-400 to-green-600" },
   { name: "Express.js", icon: SiExpress, bgGradient: "from-gray-500 to-black" },
-  { name: "GraphQL", icon: SiGraphql, bgGradient: "from-pink-500 to-purple-500" },
   { name: "MongoDB", icon: SiMongodb, bgGradient: "from-green-500 to-green-700" },
   { name: "JWT", icon: SiJsonwebtokens, bgGradient: "from-purple-500 to-indigo-600" },
   { name: "Microsoft Azure", icon: VscAzure, bgGradient: "from-blue-500 to-cyan-400" },
