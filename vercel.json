@@ -1,13 +1,11 @@
 {
   "version": 2,
-  "builds": [
+  "projects": [
     {
       "src": "ui/package.json",
       "use": "@vercel/static-build",
-      "config": { "distDir": "ui/dist" }
+      "buildCommand": "npm run build",
+      "outputDirectory": "ui/dist"
     }
-  ],
-  "routes": [
-    { "src": "/(.*)", "dest": "ui/$1" }
   ]
 }
